@@ -20,13 +20,21 @@ Welcome to Module 1! In this module, you'll gain a solid foundation in Kubernete
 - 🔐 Secrets & configuration management  
 - 🔄 Rolling updates & rollbacks  
 
-### 🌐 What is Kubernetes?
-Kubernetes (often abbreviated as K8s) is an open-source platform for automating the deployment, scaling, and management of containerized applications.
+# 🌐 What is Kubernetes?
 
-It was originally developed by Google and is now maintained by the Cloud Native Computing Foundation (CNCF).
+**Kubernetes** (often abbreviated as **K8s**) is an **open-source platform** for automating the deployment, scaling, and management of containerized applications.
 
-### 🧱 Why Kubernetes?
-Before Kubernetes, managing applications running in containers (like Docker) was manual and error-prone. Imagine deploying dozens (or hundreds) of containers — ensuring they run properly, are reachable, and can handle failures. Kubernetes automates these tasks.
+It was originally developed by **Google** and is now maintained by the **Cloud Native Computing Foundation (CNCF)**.
+
+---
+
+# 🧱 Why Kubernetes?
+
+Before Kubernetes, managing applications running in **containers** (like Docker) was manual and error-prone.
+
+Imagine deploying dozens (or hundreds) of containers — ensuring they run properly, are reachable, and can handle failures.
+
+**Kubernetes automates these tasks**.
 
 ---
 
