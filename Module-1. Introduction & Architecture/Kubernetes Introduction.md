@@ -37,7 +37,7 @@ Kubernetes uses a **master-worker** architecture.
 - **Kube-proxy**: Manages network rules and enables communication.  
 - **Container Runtime**: Runs containers (e.g., Docker, containerd).
 
-![Kubernetes Cluster Components](./images/module-1/components-of-kubernetes.png)
+![Kubernetes Cluster Components](../Images/components-of-kubernetes.png)
 
 ---
 
