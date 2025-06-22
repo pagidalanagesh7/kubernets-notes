@@ -37,9 +37,9 @@ Kubernetes uses a **master-worker** architecture.
 - **Kube-proxy**: Manages network rules and enables communication.  
 - **Container Runtime**: Runs containers (e.g., Docker, containerd).
 
----
+[Kubernetes Cluster Diagram](https://kubernetes.io/images/docs/components-of-kubernetes.svg)
 
-[Kubernetes Cluster Diagram](file:///C:/Users/tejan/OneDrive/Pictures/devops/k8s/components-of-kubernetes.svg)
+---
 
 
 ## ⚙️ Kubernetes Cluster Setup Using Kubeadm
