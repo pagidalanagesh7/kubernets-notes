@@ -39,6 +39,9 @@ Kubernetes uses a **master-worker** architecture.
 
 ---
 
+[Kubernetes Cluster Diagram](file:///C:/Users/tejan/OneDrive/Pictures/devops/k8s/components-of-kubernetes.svg)
+
+
 ## ⚙️ Kubernetes Cluster Setup Using Kubeadm
 
 `kubeadm` helps bootstrap a secure Kubernetes cluster easily.
